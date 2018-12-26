@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 中庸輯略
-#+DATE: 2018-12-26 16:42:39.550161
+#+DATE: 2018-12-26 16:42:39.614014
 #+PROPERTY: ID KR1h0018
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1h0018_WYG_000-1a>¶
 　　欽定四庫全書　　　　　　　經部八¶
@@ -42,7 +42,7 @@
 之説楊氏有能斯有為之説第十一章游氏¶
 離人立於獨未發有念之説多竟従刪薙不¶
 復存其説於此書至如第一章内所引程子¶
-答&KR0171;季明之次章或問中亦力斥其記録失¶
+答蘇季明之次章或問中亦力斥其記録失¶
 真而原文乃仍載書中或為失于刋削或為¶
 <pb:KR1h0018_WYG_000-3a>¶
 别有取義則其故不可得詳矣乾隆四十六¶
